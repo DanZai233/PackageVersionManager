@@ -1,2 +1,2 @@
 # PackageVersionManager
-A PackageVersionManager for package.json version management
+A PackageVersionManager for package.json version management with golang
